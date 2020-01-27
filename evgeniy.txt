@@ -2,3 +2,5 @@ Hello!
 Foo!
 Parrots
 Red
+
+COPYRIGHT 2020
